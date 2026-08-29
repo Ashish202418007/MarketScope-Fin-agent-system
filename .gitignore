@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+
+# Node
+node_modules/
+.next/
+
+# Database
+*.db
+
+# Alembic cache
+backend/alembic/versions/*.pyc
+
+# In development
+docs/
+frontend/
+notebooks/
+tests/
+data/
+docker/
